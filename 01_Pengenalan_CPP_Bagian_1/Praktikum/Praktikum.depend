@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:d:\campuss\smt 3\praktikum struktur data\meet 1\praktikum\main.cpp
+	<iostream>
+
+1727075983 source:d:\campuss\smt 3\praktikum struktur data\meet 1\praktikum\src\percobaan_1.cpp
+	"Percobaan_1.h"
+
+1727075983 d:\campuss\smt 3\praktikum struktur data\meet 1\praktikum\include\percobaan_1.h
+
